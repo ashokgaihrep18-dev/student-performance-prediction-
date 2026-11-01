@@ -2,7 +2,7 @@
 
 A beginner-friendly end-to-end machine learning project: predict a student's exam score from study habits, attendance, and background factors, then serve the model in a small web app.
 
-**Live demo:** _
+**Live demo:** _ https://axcer26pbifp3vkr4ihas8.streamlit.app/
 
 <img width="650" height="863" alt="image" src="https://github.com/user-attachments/assets/83b007c7-0844-4376-979d-1a4f3c1e3cc1" />
 
@@ -46,14 +46,7 @@ The data appears to be synthetic, so this project demonstrates the machine learn
 - Low parental involvement and low access to resources lower the predicted score the most (about 2 marks each, compared with High).
 - These are associations in this dataset, not proof of cause.
 
-## Run it locally
 
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ## Project files
 
